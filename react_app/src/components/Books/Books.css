@@ -1,0 +1,19 @@
+.row {
+    position: relative;
+}
+.button-right {
+    position: absolute;
+    top: 34px;
+    right: 0;
+    z-index: 1001;
+}
+.button-left {
+    position: absolute;
+    top: 34px;
+    left: 0;
+    z-index: 1001;
+}
+form {
+    max-width: 500px;
+    margin: auto;
+}
